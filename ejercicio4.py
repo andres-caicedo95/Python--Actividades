@@ -1,3 +1,4 @@
+print("Ejercicio propuesto 4")
 print("LA LANGOSTA AHUMADA - PRESUPUESTO DE BANQUETES")
 
 # Entrada del número de personas
